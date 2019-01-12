@@ -54,7 +54,7 @@ WindowManager* WindowManager::getInstance()
 // Called once at the start of each frame
 void WindowManager::FrameStart()
 {
-    glClear(GL_COLOR_BUFFER_BIT);
+//    glClear(GL_COLOR_BUFFER_BIT);
 }
 
 // Updates Game
